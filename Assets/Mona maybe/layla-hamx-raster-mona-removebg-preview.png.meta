@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 255093c8a09187044bb67b93bc65dfec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288.6667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05534f315505c4c42a28e57af1096595
+      internalID: 1507269336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288.6667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40886ecc5fd314c88a31b8fc5e1570
+      internalID: -1236012659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288.6667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56adbba2851194bb641f01172fd6b8
+      internalID: -1443517424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288.6667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c6d01ac52698142b7b2aa87f798a27
+      internalID: 1644998372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144.66667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f21bb10e667a42aa2d7798ede4e89
+      internalID: -480644497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144.66667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4737a013369444bb817d50ae9cdc64
+      internalID: -655361220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144.66667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a073c4291f8de447b42e3129d90fefc
+      internalID: 749847529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144.66667
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1301aebfd12b24ca8342f1b22e59c2
+      internalID: -1199213202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.66667175
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5863116bf70d4ca2e4f9851c5dad4
+      internalID: -1424260955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0.66667175
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd59e0c394e9c4bb0cbf0052ee1c1c
+      internalID: -16851261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: layla-hamx-raster-mona-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.66667175
+        width: 144.25
+        height: 144.33333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc3500cbc16e64287d4a0cd358f365
+      internalID: -1685270164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      layla-hamx-raster-mona-removebg-preview_0: 1507269336
+      layla-hamx-raster-mona-removebg-preview_1: -1236012659
+      layla-hamx-raster-mona-removebg-preview_10: -1685270164
+      layla-hamx-raster-mona-removebg-preview_2: -1443517424
+      layla-hamx-raster-mona-removebg-preview_3: 1644998372
+      layla-hamx-raster-mona-removebg-preview_4: -480644497
+      layla-hamx-raster-mona-removebg-preview_5: -655361220
+      layla-hamx-raster-mona-removebg-preview_6: 749847529
+      layla-hamx-raster-mona-removebg-preview_7: -1199213202
+      layla-hamx-raster-mona-removebg-preview_8: -1424260955
+      layla-hamx-raster-mona-removebg-preview_9: -16851261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
