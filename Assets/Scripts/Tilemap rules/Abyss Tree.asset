@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
   m_Name: Abyss Tree
   m_EditorClassIdentifier: 
-  m_DefaultSprite: {fileID: 1592939149, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+  m_DefaultSprite: {fileID: -175954998, guid: 39030f17c02246246bea23726772cd4d, type: 3}
   m_DefaultGameObject: {fileID: 0}
   m_DefaultColliderType: 1
   m_TilingRules:
   - m_Id: 0
     m_Sprites:
-    - {fileID: -1014264343, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+    - {fileID: 1572673809, guid: 39030f17c02246246bea23726772cd4d, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -35,7 +35,7 @@ MonoBehaviour:
     m_RuleTransform: 0
   - m_Id: 1
     m_Sprites:
-    - {fileID: 825482054, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+    - {fileID: -1008113217, guid: 39030f17c02246246bea23726772cd4d, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -51,7 +51,7 @@ MonoBehaviour:
     m_RuleTransform: 0
   - m_Id: 2
     m_Sprites:
-    - {fileID: 1480482573, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+    - {fileID: -1472873211, guid: 39030f17c02246246bea23726772cd4d, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -67,7 +67,7 @@ MonoBehaviour:
     m_RuleTransform: 0
   - m_Id: 3
     m_Sprites:
-    - {fileID: 1488946094, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+    - {fileID: 1340868160, guid: 39030f17c02246246bea23726772cd4d, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -83,7 +83,7 @@ MonoBehaviour:
     m_RuleTransform: 0
   - m_Id: 4
     m_Sprites:
-    - {fileID: -308879461, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+    - {fileID: 2092982348, guid: 39030f17c02246246bea23726772cd4d, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1
@@ -101,7 +101,7 @@ MonoBehaviour:
     m_RuleTransform: 0
   - m_Id: 5
     m_Sprites:
-    - {fileID: 1592939149, guid: 9b5338ec93177da4bb7a39653bb315c2, type: 3}
+    - {fileID: -175954998, guid: 39030f17c02246246bea23726772cd4d, type: 3}
     m_GameObject: {fileID: 0}
     m_MinAnimationSpeed: 1
     m_MaxAnimationSpeed: 1

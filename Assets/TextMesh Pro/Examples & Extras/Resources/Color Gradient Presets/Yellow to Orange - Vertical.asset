@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
   m_Name: Yellow to Orange - Vertical
   m_EditorClassIdentifier: 
-  colorMode: 3
-  topLeft: {r: 0.2505036, g: 0.075080104, b: 0.3584906, a: 1}
-  topRight: {r: 0.23813729, g: 0.05023137, b: 0.3207547, a: 1}
-  bottomLeft: {r: 0.17218466, g: 0.090459235, b: 0.20754719, a: 1}
-  bottomRight: {r: 0.12512848, g: 0.013705918, b: 0.20754719, a: 1}
+  colorMode: 0
+  topLeft: {r: 1, g: 1, b: 1, a: 1}
+  topRight: {r: 1, g: 1, b: 1, a: 1}
+  bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+  bottomRight: {r: 1, g: 1, b: 1, a: 1}
